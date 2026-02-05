@@ -1,0 +1,11 @@
+C:\Users\s127085\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\s127085\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\s127085\source\repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\s127085\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\s127085\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+C:\Users\s127085\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\Users\s127085\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.cache
+C:\Users\s127085\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\s127085\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\s127085\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\s127085\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe.config
